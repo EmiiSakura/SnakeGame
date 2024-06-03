@@ -1,6 +1,6 @@
 import pygame, sys, time, random
 
-
+##Snake settings
 
 
 speed = 5
